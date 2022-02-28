@@ -1,13 +1,3 @@
 #& test-lifetime Lifetime 1.1.1.1
 ### test-expired 2022-01-07 8.8.8.8
-#& aws-v3 Lifetime 13.2xx.3x.xxx
-### sgx4 2022-02-06 159.89.195.7
-### dns-sgx4 2022-02-06 202.87.221.105
-### sgx5 2022-02-06 159.223.88.0
-#& test-netflix-my Lifetime 104.248.154.248
-#& dns-test-netflix-my Lifetime 202.73.12.123
-### sgx5b 2022-03-01 128.199.226.101
-### sgx5b 2022-03-01 202.87.221.107 #dns
-#& vpndigi Lifetime 124.217.246.73
-### Jay-Tech 2022-04-13 178.128.80.96
-### jonny 2022-03-05 159.89.193.203
+
