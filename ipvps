@@ -1,7 +1,5 @@
 #& test-lifetime Lifetime 1.1.1.1
 ### test-expired 2022-01-07 8.8.8.8
-#& digital-ip1 Lifetime 206.189.88.129
-#& digital-ip2 Lifetime 209.97.168.190
 #& digital-ip3 Lifetime 159.223.47.44
 #& sv2ip1 Lifetime 188.166.228.198
 #& sv2ip2 Lifetime 128.199.160.144
