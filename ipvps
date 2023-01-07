@@ -1,9 +1,5 @@
 #& test-lifetime Lifetime 1.1.1.1
 ### test-expired 2022-01-07 8.8.8.8
-#& sv2ip1 Lifetime 178.128.53.120 
-#& sv2ip2 Lifetime 128.199.160.144
-#& 1 Lifetime 128.199.77.131
-#& mydigital Lifetime 128.199.142.242
-#& 1digital Lifetime 146.190.90.237
+#& mydigital Lifetime 128.199.147.150
 #& openvpn Lifetime 178.128.86.57
 
